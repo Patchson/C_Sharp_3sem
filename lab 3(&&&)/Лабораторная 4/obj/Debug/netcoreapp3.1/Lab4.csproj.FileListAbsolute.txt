@@ -1,0 +1,27 @@
+d:\Учеба в БГТУ\Пацей Н.В. ООП\Лабораторная 4\Лабораторная 4\Лабораторная 4\bin\Debug\netcoreapp3.1\Lab4.exe
+d:\Учеба в БГТУ\Пацей Н.В. ООП\Лабораторная 4\Лабораторная 4\Лабораторная 4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+d:\Учеба в БГТУ\Пацей Н.В. ООП\Лабораторная 4\Лабораторная 4\Лабораторная 4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+d:\Учеба в БГТУ\Пацей Н.В. ООП\Лабораторная 4\Лабораторная 4\Лабораторная 4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+d:\Учеба в БГТУ\Пацей Н.В. ООП\Лабораторная 4\Лабораторная 4\Лабораторная 4\bin\Debug\netcoreapp3.1\Lab4.dll
+d:\Учеба в БГТУ\Пацей Н.В. ООП\Лабораторная 4\Лабораторная 4\Лабораторная 4\bin\Debug\netcoreapp3.1\Lab4.pdb
+d:\Учеба в БГТУ\Пацей Н.В. ООП\Лабораторная 4\Лабораторная 4\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.csprojAssemblyReference.cache
+d:\Учеба в БГТУ\Пацей Н.В. ООП\Лабораторная 4\Лабораторная 4\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+d:\Учеба в БГТУ\Пацей Н.В. ООП\Лабораторная 4\Лабораторная 4\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+d:\Учеба в БГТУ\Пацей Н.В. ООП\Лабораторная 4\Лабораторная 4\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+d:\Учеба в БГТУ\Пацей Н.В. ООП\Лабораторная 4\Лабораторная 4\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.dll
+d:\Учеба в БГТУ\Пацей Н.В. ООП\Лабораторная 4\Лабораторная 4\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.pdb
+d:\Учеба в БГТУ\Пацей Н.В. ООП\Лабораторная 4\Лабораторная 4\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 3(&&&)\Лабораторная 4\bin\Debug\netcoreapp3.1\Lab4.exe
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 3(&&&)\Лабораторная 4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 3(&&&)\Лабораторная 4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 3(&&&)\Лабораторная 4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 3(&&&)\Лабораторная 4\bin\Debug\netcoreapp3.1\Lab4.dll
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 3(&&&)\Лабораторная 4\bin\Debug\netcoreapp3.1\Lab4.pdb
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 3(&&&)\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.csproj.AssemblyReference.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 3(&&&)\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 3(&&&)\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 3(&&&)\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 3(&&&)\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 3(&&&)\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.dll
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 3(&&&)\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.pdb
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 3(&&&)\Лабораторная 4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\bin\Debug\net6.0\konnr_lab.exe
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\bin\Debug\net6.0\konnr_lab.deps.json
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\bin\Debug\net6.0\konnr_lab.runtimeconfig.json
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\bin\Debug\net6.0\konnr_lab.dll
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\bin\Debug\net6.0\konnr_lab.pdb
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\obj\Debug\net6.0\konnr_lab.csproj.AssemblyReference.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\obj\Debug\net6.0\konnr_lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\obj\Debug\net6.0\konnr_lab.AssemblyInfoInputs.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\obj\Debug\net6.0\konnr_lab.AssemblyInfo.cs
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\obj\Debug\net6.0\konnr_lab.csproj.CoreCompileInputs.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\obj\Debug\net6.0\konnr_lab.dll
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\obj\Debug\net6.0\refint\konnr_lab.dll
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\obj\Debug\net6.0\konnr_lab.pdb
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\obj\Debug\net6.0\konnr_lab.genruntimeconfig.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\konnr_lab\obj\Debug\net6.0\ref\konnr_lab.dll

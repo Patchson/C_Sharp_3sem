@@ -1,0 +1,15 @@
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\bin\Debug\net6.0\kontr.exe
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\bin\Debug\net6.0\kontr.deps.json
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\bin\Debug\net6.0\kontr.runtimeconfig.json
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\bin\Debug\net6.0\kontr.dll
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\bin\Debug\net6.0\kontr.pdb
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\obj\Debug\net6.0\kontr.csproj.AssemblyReference.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\obj\Debug\net6.0\kontr.GeneratedMSBuildEditorConfig.editorconfig
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\obj\Debug\net6.0\kontr.AssemblyInfoInputs.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\obj\Debug\net6.0\kontr.AssemblyInfo.cs
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\obj\Debug\net6.0\kontr.csproj.CoreCompileInputs.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\obj\Debug\net6.0\kontr.dll
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\obj\Debug\net6.0\refint\kontr.dll
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\obj\Debug\net6.0\kontr.pdb
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\obj\Debug\net6.0\kontr.genruntimeconfig.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\kontr\obj\Debug\net6.0\ref\kontr.dll

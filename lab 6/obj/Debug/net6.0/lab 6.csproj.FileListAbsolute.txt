@@ -1,0 +1,15 @@
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\obj\Debug\net6.0\lab 6.csproj.AssemblyReference.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\obj\Debug\net6.0\lab 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\obj\Debug\net6.0\lab 6.AssemblyInfoInputs.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\obj\Debug\net6.0\lab 6.AssemblyInfo.cs
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\obj\Debug\net6.0\lab 6.csproj.CoreCompileInputs.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\bin\Debug\net6.0\lab 6.exe
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\bin\Debug\net6.0\lab 6.deps.json
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\bin\Debug\net6.0\lab 6.runtimeconfig.json
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\bin\Debug\net6.0\lab 6.dll
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\bin\Debug\net6.0\lab 6.pdb
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\obj\Debug\net6.0\lab 6.dll
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\obj\Debug\net6.0\refint\lab 6.dll
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\obj\Debug\net6.0\lab 6.pdb
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\obj\Debug\net6.0\lab 6.genruntimeconfig.cache
+D:\ucheba\3 sem\( C# ) Объектноориент. проектир. и\labs\lab 6\obj\Debug\net6.0\ref\lab 6.dll
